@@ -1,0 +1,23 @@
+{
+  "name": "jinton",
+  "version": "0.0.0",
+  "description": "Website Compressor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4e576rt8uh9ij9okp/jinton.git"
+  },
+  "keywords": [
+    "compressor",
+    "minimalizer"
+  ],
+  "author": "4e576rt8uh9ij9okp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/4e576rt8uh9ij9okp/jinton/issues"
+  },
+  "homepage": "https://github.com/4e576rt8uh9ij9okp/jinton#readme"
+}
